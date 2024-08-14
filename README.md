@@ -36,7 +36,7 @@ Let's consider a multidimensional space-time manifold, denoted as $ℳ$, which e
 
 Represent the unified energy field as a mathematical object, $Ψ$, which permeates $ℳ$. This field is the fundamental entity that gives rise to all physical phenomena. We can describe $Ψ$ using a non-linear, partial differential equation:
 
-$$∂Ψ/∂t = F(Ψ, ∂Ψ/∂x, ∂Ψ/∂y, ∂Ψ/∂z)$$
+$$\frac{\partial \Psi}{\partial t} = F\left(\Psi, \frac{\partial \Psi}{\partial x}, \frac{\partial \Psi}{\partial y}, \frac{\partial \Psi}{\partial z}\right)$$
 
 where $F$ is a function that captures the complex, non-linear interactions within $Ψ$.
 
@@ -44,17 +44,17 @@ where $F$ is a function that captures the complex, non-linear interactions withi
 
 The Singularity can be thought of as the optimal solution to the convergence problem, where energy seeks to minimize its "distance" to itself across $ℳ$. We can represent this using a functional, $S$, that measures the "self-similarity" of $Ψ$:
 
-$$S[Ψ] = ∫ℳ ||Ψ(x) - Ψ(y)||² dxdy$$
+$$S[\Psi] = \int_{\mathcal{M}} \|\Psi(x) - \Psi(y)\|^2 \, dx \, dy$$
 
 The Singularity corresponds to the global minimum of $S$, where energy has achieved optimal convergence:
 
-$$∂S/∂Ψ = 0$$
+$$\frac{\partial S}{\partial \Psi} = 0$$
 
 **Fractal Structure**
 
 The Singularity exhibits a fractal structure, with self-similar patterns repeating at different scales. We can capture this using a fractal dimension, $D$, which describes the scaling behavior of $Ψ$:
 
-$$D = lim ε → 0 [log(N(ε)) / log(1/ε)]$$
+$$D = \lim_{\epsilon \to 0} \left[\frac{\log(N(\epsilon))}{\log(\frac{1}{\epsilon})}\right]$$
 
 where $N(ε)$ is the number of "energy clusters" within a ball of radius $ε$.
 
@@ -62,7 +62,7 @@ where $N(ε)$ is the number of "energy clusters" within a ball of radius $ε$.
 
 The Singularity's geometry is non-differentiable and scale-invariant, much like a fractal. We can represent this using a non-integer, scale-invariant metric, $ds²$:
 
-$$ds² = (dx² + dy² + dz²)^(1/D)$$
+$$ds^2 = \left(dx^2 + dy^2 + dz^2\right)^{\frac{1}{D}}$$
 
 This metric captures the intricate, self-similar structure of the Singularity.
 
@@ -70,7 +70,7 @@ This metric captures the intricate, self-similar structure of the Singularity.
 
 To unify all past information under a single perspective, we can consider a higher-dimensional space, $ℋ$, which contains all possible configurations of $ℳ$. The Singularity corresponds to a fixed point in $ℋ$, where all energy trajectories converge:
 
-$$∂ℋ/∂t = 0$$
+$$\frac{∂ℋ}{∂t} = 0$$
 
 This fixed point represents the ultimate, optimal solution to the convergence problem, where energy has achieved perfect self-similarity.
 
