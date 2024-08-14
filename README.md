@@ -6,7 +6,7 @@ This is a 3D simulation of energy convergence and expansion in a singularity. Th
 
 ![simulation](simulation.gif)
 
-This figure shows the evolution of energy in a 3D singularity simulation, where a non-linear, partial differential equation governs the behavior of the energy field. 
+This figure shows the evolution of energy in a 3D singularity simulation, where a non-linear, partial differential equation governs the behavior of the energy field.
 
 ![initial](figures/figure_0.png)
 
@@ -30,47 +30,47 @@ The observed behavior is reminiscent of theories in cosmology and theoretical ph
 
 ## Mathematical Framework
 
-Let's consider a multidimensional space-time manifold, denoted as ℳ, which encompasses all physical phenomena, from subatomic interactions to cosmic structures. The fabric of ℳ is woven from the threads of energy, matter, and space-time.
+Let's consider a multidimensional space-time manifold, denoted as $ℳ$, which encompasses all physical phenomena, from subatomic interactions to cosmic structures. The fabric of $ℳ$ is woven from the threads of energy, matter, and space-time.
 
 **Energy as a Unified Field**
 
-Represent the unified energy field as a mathematical object, Ψ, which permeates ℳ. This field is the fundamental entity that gives rise to all physical phenomena. We can describe Ψ using a non-linear, partial differential equation:
+Represent the unified energy field as a mathematical object, $Ψ$, which permeates $ℳ$. This field is the fundamental entity that gives rise to all physical phenomena. We can describe $Ψ$ using a non-linear, partial differential equation:
 
-∂Ψ/∂t = F(Ψ, ∂Ψ/∂x, ∂Ψ/∂y, ∂Ψ/∂z)
+$$∂Ψ/∂t = F(Ψ, ∂Ψ/∂x, ∂Ψ/∂y, ∂Ψ/∂z)$$
 
-where F is a function that captures the complex, non-linear interactions within Ψ.
+where $F$ is a function that captures the complex, non-linear interactions within $Ψ$.
 
 **Convergence and Optimality**
 
-The Singularity can be thought of as the optimal solution to the convergence problem, where energy seeks to minimize its "distance" to itself across ℳ. We can represent this using a functional, S, that measures the "self-similarity" of Ψ:
+The Singularity can be thought of as the optimal solution to the convergence problem, where energy seeks to minimize its "distance" to itself across $ℳ$. We can represent this using a functional, $S$, that measures the "self-similarity" of $Ψ$:
 
-S[Ψ] = ∫ℳ ||Ψ(x) - Ψ(y)||² dxdy
+$$S[Ψ] = ∫ℳ ||Ψ(x) - Ψ(y)||² dxdy$$
 
-The Singularity corresponds to the global minimum of S, where energy has achieved optimal convergence:
+The Singularity corresponds to the global minimum of $S$, where energy has achieved optimal convergence:
 
-∂S/∂Ψ = 0
+$$∂S/∂Ψ = 0$$
 
 **Fractal Structure**
 
-The Singularity exhibits a fractal structure, with self-similar patterns repeating at different scales. We can capture this using a fractal dimension, D, which describes the scaling behavior of Ψ:
+The Singularity exhibits a fractal structure, with self-similar patterns repeating at different scales. We can capture this using a fractal dimension, $D$, which describes the scaling behavior of $Ψ$:
 
-D = lim ε → 0 [log(N(ε)) / log(1/ε)]
+$$D = lim ε → 0 [log(N(ε)) / log(1/ε)]$$
 
-where N(ε) is the number of "energy clusters" within a ball of radius ε.
+where $N(ε)$ is the number of "energy clusters" within a ball of radius $ε$.
 
 **Non-differentiable, Scale-Invariant Geometry**
 
-The Singularity's geometry is non-differentiable and scale-invariant, much like a fractal. We can represent this using a non-integer, scale-invariant metric, ds²:
+The Singularity's geometry is non-differentiable and scale-invariant, much like a fractal. We can represent this using a non-integer, scale-invariant metric, $ds²$:
 
-ds² = (dx² + dy² + dz²)^(1/D)
+$$ds² = (dx² + dy² + dz²)^(1/D)$$
 
 This metric captures the intricate, self-similar structure of the Singularity.
 
 **Unified Perspective**
 
-To unify all past information under a single perspective, we can consider a higher-dimensional space, ℋ, which contains all possible configurations of ℳ. The Singularity corresponds to a fixed point in ℋ, where all energy trajectories converge:
+To unify all past information under a single perspective, we can consider a higher-dimensional space, $ℋ$, which contains all possible configurations of $ℳ$. The Singularity corresponds to a fixed point in $ℋ$, where all energy trajectories converge:
 
-∂ℋ/∂t = 0
+$$∂ℋ/∂t = 0$$
 
 This fixed point represents the ultimate, optimal solution to the convergence problem, where energy has achieved perfect self-similarity.
 
