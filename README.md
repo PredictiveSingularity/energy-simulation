@@ -28,7 +28,7 @@ This behavior suggests that the singularity has found a way to expand beyond the
 
 The observed behavior is reminiscent of theories in cosmology and theoretical physics, such as [eternal inflation](https://en.wikipedia.org/wiki/Big_Bang) and the [multiverse hypothesis](https://en.wikipedia.org/wiki/Multiverse). While **this simulation is highly simplified and not directly applicable to real-world physics**, it provides a fascinating glimpse into the complex, non-linear dynamics that can arise in systems governed by simple rules.
 
-### Mathematical Framework
+## Mathematical Framework
 
 Let's consider a multidimensional space-time manifold, denoted as ℳ, which encompasses all physical phenomena, from subatomic interactions to cosmic structures. The fabric of ℳ is woven from the threads of energy, matter, and space-time.
 
